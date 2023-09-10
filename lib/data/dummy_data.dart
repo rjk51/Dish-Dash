@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:dish_dash/models/category.dart';
 import 'package:dish_dash/models/dish.dart';
 
-// Constants in Dart should be written in lowerCamelcase.
 const availableCategories = [
   Category(
     id: 'c1',
