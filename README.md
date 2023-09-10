@@ -1,16 +1,11 @@
-# dish_dash
+# dish dash
 
-A new Flutter project.
+A recipe app which uses navigation concept of Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Browse through wide variety of dishes by categories.
+- Check the complexity or price of a dish..
+- Check the recipe of a dish and that dish to your list of favorite dishes.
+- Filter through different dishes by using available filters.
+- Filters that are currently available are: gluten free, lactose free, vegetarian,  vegan.
